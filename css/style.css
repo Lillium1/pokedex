@@ -1,0 +1,21 @@
+.menuTodo {
+	background-color: red;
+}
+
+.menuLado {
+	background-color: green;
+}
+
+.card {
+	background-color: red;
+}
+
+.card .card-content{
+    padding: 0;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+
+.col {
+	display: inline-block;
+}
